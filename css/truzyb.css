@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(255, 255, 255) none repeat left;
+}
+
+/*Початок шапки*/
+header{
+    vertical-align: middle;
+}
+
+.logo {
+    margin-top: 13px;
+    width: 150px;
+    padding: 5px;
+    background-color: rgb(97, 161, 78);
+    border-radius: 100px;
+    display: flex;
+}
+
+#icon {
+    width: 50px;
+    display: block;
+}
+
+#logo-name {
+    font-weight: 400;
+    font-family: 'Anton', sans-serif;
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    display: block;
+
+}
+
+hr {
+    margin: 13px;
+}
+/*Кінець шапки*/
+
+.opus {
+    margin-left: 10px;
+    display: flex;
+}
+
+#imgTovar {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(231, 231, 231);
+}
+
+.text {
+    vertical-align: middle;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.najavnist{
+    width: fit-content;
+    padding: 10px;
+    display: flex;
+    color: green;
+    border-radius: 10px;
+    background-color: rgb(231, 231, 231);
+}
+
+#halochka {
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+    display: block;
+}
+
+#opusTitle {
+    margin-top: 20px;
+    width: auto;
+}
+
+#opusText {
+    margin-top: 20px;
+}
